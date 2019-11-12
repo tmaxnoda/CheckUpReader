@@ -1,0 +1,8 @@
+................1...................
+Patient Number 3
+Systolic 8
+Diastolic 3.5
+HDL 9
+LDL 7
+Computed Ratio 0.777778
+Ratio explanation  Too much cholesterol in your HDL

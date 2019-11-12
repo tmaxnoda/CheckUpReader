@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573492501 source:c:\users\seun\music\cpp\checkupreader\main.cpp
+	<iostream>
+	<fstream>
+
